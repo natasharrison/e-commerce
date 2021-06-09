@@ -16,18 +16,23 @@ id: {
       autoIncrement: true
 }, 
 
-// references Product_id
-references: {
-  type: DataTypes.INTEGER, 
-  model: Product, 
+product_id: {
+  type: DataTypes.INTEGER,
+      allowNull: true,
+      references: {
+  model: 'product', 
   key: 'id'
 }, 
-// references Tag_id
-references: {
-  type: DataTypes.INTEGER, 
-  model: Tag,
+},
+
+tag_id: {
+    type: DataTypes.INTEGER,
+      allowNull: true,
+      references: {
+  model: 'tag',
   key: 'id'
 },
+}
   },
   {
     sequelize,
