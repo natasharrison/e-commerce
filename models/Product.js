@@ -28,7 +28,7 @@ price: {
   type: DataTypes.DECIMAL, 
   allowNull: false, 
   // Validates that the value is a decimal
-
+  isDecimal: true
 }, 
 
 // stock
