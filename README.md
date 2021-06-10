@@ -12,7 +12,8 @@ E-commerce website back end that uses the latest technologies so a company can c
 
 - Input MySQL username and password within .env file
 - npm run seed
-- npm start or node server
+- npm start
+- Ability to test routes using Insomnia
 
 ## Repository
 
