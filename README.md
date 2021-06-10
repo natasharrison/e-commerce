@@ -18,9 +18,12 @@ E-commerce website back end that uses the latest technologies so a company can c
 ## Repository
 
 [GitHub] https://github.com/natasharrison/e-commerce.git
-[Screencastify]
+[Screencastify] <iframe src="https://drive.google.com/file/d/1UwAZ8t4X3SZHVUJmtJcFlfEKz-9bEfDN/preview" width="640" height="480"></iframe>
 
 ## Contributing
 
 - Starter Code provided by Bootcamp
 - Natasha Harrison @natasharrison
+
+## Future Development / Bugs
+[] Fix PUT update Product API Route
