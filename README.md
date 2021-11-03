@@ -2,11 +2,13 @@
 
 ## Description
 
-E-commerce website back end that uses the latest technologies so a company can compete with other e-commerce companies
+E-commerce website back end that uses the latest technologies so a company can compete with other e-commerce companies.
 
 ## Built With
 
-- Express.js, MySQL2, Sequelize
+- Express.js
+- MySQL2
+- Sequelize
 
 ## Usage
 
@@ -17,8 +19,10 @@ E-commerce website back end that uses the latest technologies so a company can c
 
 ## Repository
 
-[GitHub] https://github.com/natasharrison/e-commerce.git
-[Screencastify] <iframe src="https://drive.google.com/file/d/1UwAZ8t4X3SZHVUJmtJcFlfEKz-9bEfDN/preview" width="640" height="480"></iframe>
+- [GitHub] https://github.com/natasharrison/e-commerce.git
+
+## Demo 
+<iframe src="https://drive.google.com/file/d/1UwAZ8t4X3SZHVUJmtJcFlfEKz-9bEfDN/preview" width="640" height="480"></iframe>
 
 ## Contributing
 
