@@ -19,10 +19,10 @@ E-commerce website back end that uses the latest technologies so a company can c
 
 ## Repository
 
-- [GitHub] https://github.com/natasharrison/e-commerce.git
+- GitHub https://github.com/natasharrison/e-commerce.git
 
 ## Demo 
-![screencastify]<iframe src="https://drive.google.com/file/d/1UwAZ8t4X3SZHVUJmtJcFlfEKz-9bEfDN/preview" width="640" height="480"></iframe>
+<a href="https://drive.google.com/file/d/1UwAZ8t4X3SZHVUJmtJcFlfEKz-9bEfDN/preview"><img src="./assets/screenshot.JPG"></a>
 
 ## Contributing
 
